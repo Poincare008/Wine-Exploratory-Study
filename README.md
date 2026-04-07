@@ -33,13 +33,12 @@ Notre analyse suivra une progression logique et rigoureuse :
 Chaque étape est accompagnée d'une interprétation des résultats, afin de dégager des conclusions pertinentes sur la structure du jeu de données Wine.
 
 ## Outil collaboratif
-Comme outil collaboratif, nous utiliserons GitHub, qui nous permettra d’héberger notre projet, mais aussi de collaborer efficacement et en temps réel sur la production et la révision du code.
+Comme outil collaboratif, nous avons utilise GitHub, qui nous a permis d’héberger notre projet, mais aussi de collaborer efficacement et en temps réel sur la production et la révision du code.
 
-#### Professeur: 
-Dr.Evens TOUSSAINT
+> **Professeur :** Dr. Evens **TOUSSAINT**
 
-#### Auteur:
-JAmeson PIERREVILLE
-Steve CALIXTE
-Fabrice HERARD
+> **Étudiant   :** 
+- Jameson **PIERREVILLE**
+- Steve  **CALIXTE**
+- Fabrice **HERARD**
 
