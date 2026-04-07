@@ -1,3 +1,11 @@
+![Alt text](image/im3.jpeg)
+
+> **Professeur :** Dr. Evens **TOUSSAINT**
+
+> **Étudiant   :** 
+- Jameson **PIERREVILLE**
+- Steve  **CALIXTE**
+- Fabrice **HERARD**
 
 
 ## Étude Exploratoire du Jeu de Données Wine
@@ -35,10 +43,4 @@ Chaque étape est accompagnée d'une interprétation des résultats, afin de dé
 ## Outil collaboratif
 Comme outil collaboratif, nous avons utilise GitHub, qui nous a permis d’héberger notre projet, mais aussi de collaborer efficacement et en temps réel sur la production et la révision du code.
 
-> **Professeur :** Dr. Evens **TOUSSAINT**
-
-> **Étudiant   :** 
-- Jameson **PIERREVILLE**
-- Steve  **CALIXTE**
-- Fabrice **HERARD**
 
